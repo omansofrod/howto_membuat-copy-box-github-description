@@ -6,4 +6,4 @@ Cara Membuat Copy Box Text
 dengan input
 ```
 ```
-pada awal dan akhir text untuk dicopy
+pada awal text untuk start dan pada akhir text untuk finish
