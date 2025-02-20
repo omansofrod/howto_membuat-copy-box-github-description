@@ -1,7 +1,7 @@
 # howto_membuat-copy-box-github-description
 Cara Membuat Copy Box Text
 
-![Image](https://github.com/user-attachments/assets/9195cca1-f545-44aa-b19b-0dd08c81368e)
+![Image](https://github.com/user-attachments/assets/c2be4fb8-9eb7-47b0-9703-9e4391478a65)
 
 dengan input
 ```
